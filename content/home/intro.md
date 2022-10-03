@@ -1,23 +1,12 @@
 ---
-# Use the Intro widget of the Blog template
 widget: about.avatar
-
-# This file represents a page section.
 headless: true
-
-# Order that this section will appear in.
 weight: 10
-
 author: admin
-#design:
-#  background:
-#    color: '#090a0b'
-#    text_color_light: true
-#    video:
-#      path:  # enter filename of a video in /assets/media
-#  css_class: fullscreen
+widget_id: Learn Hack
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
+✌ Hey! Wir sind Bijan und Jan, die Gründer von Learn Hack.
 
-Check out my [CV](/about/) and blog posts below 🌈
+Wir sind davon überzeugt, dass jeder erfolgreich Lernen kann! 
+Mit unseren YouTube-Videos möchten wir Euch von unseren Erfahrungen berichten, Techniken und Tipps für erfolgreiches Lernen mitgeben. Wir sind Eure Begleiter auf dem Weg zu Top-Lernerfolgen!
