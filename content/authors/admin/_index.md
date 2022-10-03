@@ -14,9 +14,7 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen
-organizations:
-  - name: Bijan und Jan
-    url: ""
+organizations: []
 superuser: true
 status:
   icon: ☕️
