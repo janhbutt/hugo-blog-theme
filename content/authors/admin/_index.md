@@ -15,7 +15,7 @@ social:
     icon_pack: fab
     link: https://instagram.com/geocushen
 organizations:
-  - name: 腾讯
+  - name: Bijan und Jan
     url: ""
 superuser: true
 status:
